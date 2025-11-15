@@ -1,0 +1,9 @@
+DOCUMENTACIÓN & README
+----------------------
+README.md debe incluir:
+- Setup local (node version, env vars)
+- Scripts
+- Estructura del proyecto
+- Cómo conectar con el backend (API contract)
+- Cómo ejecutar tests
+- Cómo desplegar
